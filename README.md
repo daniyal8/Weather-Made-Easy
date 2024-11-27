@@ -27,6 +27,6 @@ A modern, user-friendly weather app built with **Vite** and **React**, designed 
 To get started with the project, clone the repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/daniyal8/weather-app.git
 cd weather-made-easy
 npm install
