@@ -1,8 +1,3 @@
-# React + Vite
+Weather Made Easy
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A modern weather app built with Vite and React, featuring real-time updates, AQI, and forecasts. Powered by Axios for fast API responses and Redux Toolkit for state management. Styled with Tailwind CSS and Ant Design, it offers a sleek, user-friendly design. As a PWA, it’s installable and works offline for added convenience.
