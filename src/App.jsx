@@ -39,7 +39,7 @@ function App() {
           .catch((err) => {
             console.error("error fetching results", err);
           });
-      }, 2500);
+      }, 500);
     }
   }, [locationSearchValue, dispatch]);
 
