@@ -2,7 +2,7 @@ import axios from "axios";
 
 const API_KEY = import.meta.env.VITE_LOCATION_API_KEY;
 
-const location = async (cityName, countryCode) => {
+const location = async (cityName) => {
     try {
         const response = await axios.get(`https://wft-geo-db.p.rapidapi.com/v1/geo/cities?namePrefix=${cityName}&limit=10`, {
             headers: {
